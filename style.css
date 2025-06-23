@@ -1,0 +1,60 @@
+.conjunto{
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0px;
+
+}
+
+.alfabeto{
+display: flex;
+background-color: white;
+height: 50px;
+width: 50px;
+border: solid;
+align-items: center;
+justify-content: center;
+margin: 0px;
+}
+
+.cabecalho{
+display: flex;
+background-color: white;
+height: 50px;
+width: 50px;
+align-items: center;
+justify-content: center;
+margin: 0px;
+font-size: 40px;
+color: black;
+}
+
+#cabecalho2{
+display: flex;
+background-color: white;
+height: 50px;
+width: 200px;
+align-items: center;
+justify-content: center;
+margin: 0px;
+font-size: 40px;
+color: black;
+}
+
+
+h2 {
+font-size: 50px;
+}
+
+h1 {
+color: white;
+}
+
+div {
+margin: 0px;
+}
+
+body {
+background-color: black;
+}
+
