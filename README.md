@@ -1,4 +1,4 @@
-## 🎮 JSGAME Jogo da Forca
+## 🎮 JSGame Jogo da Forca
 
 <p align="center">
   <img src="img/logo.gif" alt="JSGame Jogo da Forca" width="500px" height="500px">
